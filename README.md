@@ -143,8 +143,8 @@ Project ini sudah disesuaikan untuk:
 
 ## 👨‍💻 Author
 
-- Original: Mahasiswa
-- Deployment & Fix: Anda
+- Original: Troy 
+- Deployment & Fix: Rhesa Prawedha
 
 ---
 
